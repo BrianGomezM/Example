@@ -27,9 +27,13 @@ const Contacto = () => {
         }
     };
 
+
+
     return (
         <section id="contacto" className="container my-5">
-            <h2 className="text-center">Contáctenos</h2>
+            <h1 className="text-center">Esto es una prueba de IA</h1>
+            <h1 className="text-center">Esto es una prueba de IA</h1>
+            <h2 className="text-center">Contáctenos - prueba</h2>
             <div className="card">
                 <div className="card-body">
                     <form onSubmit={handleSubmit}>
