@@ -19,6 +19,7 @@ const Footer = () => {
                 </div>
             </div>
             <p className="footer-copy">© 2024 Todos los derechos reservados</p>
+            <p className="footer-copy">© 2024 Todos los derechos reservados</p>
         </footer>
     );
 };
