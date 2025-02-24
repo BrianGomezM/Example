@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <footer className="footer">
             <div className="footer-content">
-                <p>Brayan Gomez Muñoz</p>
+                <p>ING Brayan Julio Gomez Muñoz</p>
                 <div className="social-icons">
                     <a href="https://gomezdevportfolio.netlify.app/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
                         <FaGlobe size={24} />
