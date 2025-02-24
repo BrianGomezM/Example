@@ -39,6 +39,7 @@ const Contacto = () => {
                     <form onSubmit={handleSubmit}>
                         <div className="form-group">
                             <label htmlFor="nombre">Nombre</label>
+                            <label htmlFor="nombre">Nombre</label>
                             <input
                                 type="text"
                                 className="form-control"
