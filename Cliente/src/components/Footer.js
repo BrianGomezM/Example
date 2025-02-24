@@ -15,10 +15,9 @@ const Footer = () => {
                     </a>
                     <a href="https://github.com/BrianGomezM" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                         <FaGithub size={24} />
-
+                    </a>
                 </div>
             </div>
-            <p className="footer-copy">© 2024 Todos los derechos reservados</p>
             <p className="footer-copy">© 2024 Todos los derechos reservados</p>
         </footer>
     );
