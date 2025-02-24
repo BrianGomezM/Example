@@ -1,0 +1,22 @@
+.card-title {
+    font-family: 'Geomanist', sans-serif;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.card-text {
+    text-align: justify;
+}
+
+
+.card-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px; 
+    padding-top: 15px;
+}
+
+.card-buttons .btn {
+    width: 100px;
+}
