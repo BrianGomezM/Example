@@ -11,10 +11,6 @@ const Footer = () => {
                     <a href="https://gomezdevportfolio.netlify.app/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
                         <FaGlobe size={24} />
                     </a>
-                    <p>
-                        La Segunda Guerra Mundial (1939-1945) fue uno de los conflictos más devastadores del siglo XX,
-                        redefiniendo alianzas políticas y cambiando el curso de la humanidad.
-                    </p>
                     <a href="https://www.linkedin.com/in/brayan-julio-g%C3%B3mez-mu%C3%B1oz-b195b818b" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                         <FaLinkedin size={24} />
                     </a>
