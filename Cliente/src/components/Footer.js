@@ -11,22 +11,15 @@ const Footer = () => {
                     <a href="https://gomezdevportfolio.netlify.app/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
                         <FaGlobe size={24} />
                     </a>
-                    <p>
+
 
                         <p>
-                            La Segunda Guerra Mundial fue un conflicto global que se libró entre 1939 y 1945,
-                            involucrando a las principales potencias mundiales y dejando una profunda huella en la
-                            historia de la humanidad.
-                        </p>
-                        <p>
-                            <p>
-                                La Segunda Guerra Mundial, que tuvo lugar entre 1939 y 1945, fue uno de los conflictos
-                                más devastadores de la historia, marcada por la lucha entre los Aliados y las Potencias
-                                del Eje, dejando un impacto profundo en la política y sociedad mundial.
-                            </p>
+                            La Segunda Guerra Mundial fue un evento histórico que influyó profundamente en el siglo XX,
+                            dejando un legado que impactó la política, sociedad y economía global.
                         </p>
 
-                    </p>
+
+
                     <a href="https://www.linkedin.com/in/brayan-julio-g%C3%B3mez-mu%C3%B1oz-b195b818b" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                         <FaLinkedin size={24} />
                     </a>
