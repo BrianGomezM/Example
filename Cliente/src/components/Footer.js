@@ -6,12 +6,6 @@ const Footer = () => {
         <footer className="footer">
             <div className="footer-content">
                 <h3>Desarrollado por:</h3>
-
-                <p>Oracle es una de las empresas líderes en soluciones tecnológicas, conocida principalmente por su
-                    sistema de gestión de bases de datos relacionales (Oracle Database). Ofrece una amplia gama de
-                    servicios y productos, incluyendo software empresarial, hardware y soluciones en la nube, diseñados
-                    para ayudar a las organizaciones a maximizar sus recursos y mejorar la eficiencia operativa.</p>
-
                 <div className="social-icons">
                     <a href="https://gomezdevportfolio.netlify.app/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
                         <FaGlobe size={24} />
