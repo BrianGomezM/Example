@@ -27,6 +27,8 @@ const Contacto = () => {
         }
     };
 
+
+
     return (
         <section id="contacto" className="container my-5">
             <h2 className="text-center">Contáctenos</h2>
